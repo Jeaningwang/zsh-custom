@@ -7,3 +7,6 @@
 [submodule "/home/moneatts/.oh-my-zsh/custom/plugins/zsh-completions"]
 	path = /home/moneatts/.oh-my-zsh/custom/plugins/zsh-completions
 	url = https://github.com/zsh-users/zsh-completions
+[submodule "/home/moneatts/.oh-my-zsh/custom/themes/powerlevel10k"]
+	path = /home/moneatts/.oh-my-zsh/custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
