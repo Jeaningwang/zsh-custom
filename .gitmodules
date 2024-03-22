@@ -19,3 +19,6 @@
 [submodule "plugins/zsh-navigation-tools"]
 	path = plugins/zsh-navigation-tools
 	url = git@github.com:z-shell/zsh-navigation-tools.git
+[submodule "plugins/zsh-autocomplete"]
+	path = plugins/zsh-autocomplete
+	url = git@github.com:marlonrichert/zsh-autocomplete.git
